@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Tableau extension for exporting sheets PDF.",
   "main": "index.js",
-  "repository": "https://github.com/ai-zahran/ExportPDF.git",
-  "author": "Ahmed Zahran",
+  "repository": "https://github.com/Que5tion/testing.git",
+  "author": "Mindaugas Vilimas",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.5.0",

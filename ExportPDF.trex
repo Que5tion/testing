@@ -3,8 +3,8 @@
   <dashboard-extension id="com.exporttoexcel" extension-version="1.0.0">
     <default-locale>en_US</default-locale>
     <name resource-id=""/>
-    <description>A Tableau extension to export data in selected sheets to Excel.</description>
-    <author name="Ahmed Zahran" email="ai.zahran@dataplusme.net" organization="DataPlus" website="https://www.dataplusme.com"/>
+    <description>Tau nieko nereikia daryti.</description>
+    <author name="Mindaugas" email="kosmoas.net" organization="pagalvok" website="kosmonautai15"/>
     <min-api-version>0.9</min-api-version>
     <source-location>
       <url>http://localhost:5500</url>
